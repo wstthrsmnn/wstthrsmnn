@@ -1,16 +1,17 @@
-## Hi there 👋
+```golang
+package main
 
-<!--
-**wstthrsmnn/wstthrsmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import "fmt"
 
-Here are some ideas to get you started:
+func main() {
+    fmt.Println("Ciao, mondo!"")
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎀 Malware Analysis: Studying how threats work to build stronger defenses.
+
+🌸 Digital Forensics: Investigating digital traces and recovering evidence with great patience and detail.
+
+🧸 Network Security: Keeping connections secure and private.
+
+🍦 CTF Enthusiast: Solving challenges and learning from the community.
